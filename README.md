@@ -28,7 +28,7 @@ For example:
     python predict.py data/sample.txt
    ```
   ### 3.Description of output
-  The output file is shown as *result_prediction.txt*. The description of output is shown as follows:
+  The output file is shown as *data/result_prediction.txt*. The description of output is shown as follows:
   
   Columns  | Description
 ------------- | -------------
