@@ -10,7 +10,7 @@ DeepNet requires the following Python 3.0 modules:
 - keras 2.2.4
 - scipy 1.3.0
 
-###1. Description of input
+### 1. Description of input
 The input data should meet the following format:
 
 Columns  | Description
@@ -18,7 +18,7 @@ Columns  | Description
 mhc | mhc class I molecules (e.g. HLA-A01:01)
 sequence  | 9-mer peptides (e.g. RTFNEDLFR)
 
-###2. Implementation
+### 2. Implementation
 You can implement the code as follows:
    ```sh
     python predict.py [inputfile]
@@ -28,5 +28,5 @@ For example:
     python predict.py data/sample.csv
    ```
   
-  ###Description of output
+  ### Description of output
   The output 
