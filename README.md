@@ -19,7 +19,8 @@ mhc | mhc class I molecules (e.g. HLA-A01:01)
 sequence  | 9-mer peptides (e.g. RTFNEDLFR)
 
 ### 2. Implementation
-You can implement the code as follows:
+
+It is noted that the following commands should be implemented under */src/ path. You can implement the code as follows:
    ```sh
     python predict.py [inputfile]
    ```
@@ -38,3 +39,6 @@ pred_affinity | the predicted transformed affinity (0 indicates week binding)
 pred_immuno | the predicted immunogenic potential ( binary)
 immuno_probability| the predicted immunogenic probability (continuous)
 
+
+
+If you have problems using DeepNet, please contact jing.li@sjtu.edu.cn
