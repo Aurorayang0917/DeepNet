@@ -25,10 +25,10 @@ You can implement the code as follows:
    ```
 For example:
    ```sh
-    python predict.py data/sample.txt
+    python predict.py ../data/sample.txt
    ```
   ### 3.Description of output
-  The output file is shown as *data/result_prediction.txt*. The description of output is shown as follows:
+  The output file is shown as */data/result_prediction.txt*. The description of output is shown as follows:
   
   Columns  | Description
 ------------- | -------------
