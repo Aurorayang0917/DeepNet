@@ -27,6 +27,14 @@ For example:
    ```sh
     python predict.py data/sample.csv
    ```
+  ### 3.Description of output
+  The output file is shown as *result_prediction.txt*. The description of output is shown as follows:
   
-  ### Description of output
-  The output 
+  Columns  | Description
+------------- | -------------
+mhc | mhc class I molecules 
+sequence  | 9-mer peptides 
+pred_affinity | the predicted transformed affinity (0 indicated week binding)
+pred_immuno | the predicted immunogenic potential ( binary)
+immuno_probability| the predicted immunogenic probability (continuous)
+
