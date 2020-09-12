@@ -41,4 +41,4 @@ immuno_probability| the predicted immunogenic probability (continuous)
 
 
 
-If you have problems using DeepNet, please contact jing.li@sjtu.edu.cn
+**If you have problems using DeepNet, please contact jing.li@sjtu.edu.cn**
