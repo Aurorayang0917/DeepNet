@@ -34,7 +34,7 @@ For example:
 ------------- | -------------
 mhc | mhc class I molecules 
 sequence  | 9-mer peptides 
-pred_affinity | the predicted transformed affinity (0 indicated week binding)
+pred_affinity | the predicted transformed affinity (0 indicates week binding)
 pred_immuno | the predicted immunogenic potential ( binary)
 immuno_probability| the predicted immunogenic probability (continuous)
 
